@@ -1,6 +1,6 @@
 # Oii! Eu sou o Wendel Lemos
 
-- 💻 Estudando Analise desenvolvimento de sistema
+- 💻 Estudando Análise Desenvolvimento de Sistema
 - 💼 Linkedin: https://www.linkedin.com/in/wendel-dos-santos-lemos/
 - 📬 E-mail:wendel_am@hotmail.com
 
