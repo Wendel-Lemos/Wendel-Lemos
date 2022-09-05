@@ -1,9 +1,9 @@
 # Oii! Eu sou o Wendel Lemos  
 
-- 😀
+- 💼 Linkedin: https://www.linkedin.com/in/wendel-dos-santos-lemos/
 - 💻 Estudando Analise desenvolvimento de sistema
 - 🌱
-
+-
 <div>
   <a href="https://github.com/Wendel-Lemos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendel-Lemos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
